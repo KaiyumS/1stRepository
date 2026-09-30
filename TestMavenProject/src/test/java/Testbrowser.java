@@ -6,7 +6,7 @@ public class Testbrowser {
 	public void a() {
 		System.out.println("Hello Git");
 		System.out.println("Hello Kaiyum");
-System.out.println("Hello Payment test");
+System.out.println("Hello Authorization test");
 	}
 
 }
